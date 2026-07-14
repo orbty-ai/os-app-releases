@@ -1,6 +1,6 @@
-# OS June — Releases
+# OS Orbty-mi — Releases
 
-Public distribution point for **OS June** (macOS).
+Public distribution point for **OS Orbty-mi** (macOS).
 
 This repository holds the signed, notarized build artifacts and the auto-update
 manifest (`latest.json`) consumed by the in-app updater. **Build outputs only —
